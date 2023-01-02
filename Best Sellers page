@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+  <title>
+    Village Tandoori Best Sellers
+    </title>
+<head>
+  <style>
+    </style>
+  </head>
+    <body>
+      <header>
+        <center><u><b><pre>Village Tandoori</pre></b></u></center>
+       <center><u><b><pre>Best Sellers</pre></b></u></center>
+        <hr>
+        </header>
+      <section>
+      <table>
+      <tr>
+      <td>Type of food</td>
+      <td>Food</td>
+      <tdImage</td>
+      <td>Price(£)</td>
+      <td>info</td>
+      </tr>
+      <tr>
+      <td>Pizza<td>
+      </table>
+      </section>
